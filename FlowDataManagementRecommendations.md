@@ -27,7 +27,7 @@ Flowjo will use the workspace (`.wsp` ) file as the anchor for describing where 
 
 ## Cloud-based analysis software (OMIQ/Cytobank): _Where can my data be stored long-term?_
 
-> **Policy Note**: If you are using any cloud platforms, you must fill in the [WEHI Cloud Usage Form](PLACEHOLDER) to ensure that ITS & RCP are aware of the platforms in use.
+> **Policy Note**: If you are using any cloud platforms, you must fill in the [WEHI Cloud Usage Form](https://wehiservicehub.atlassian.net/servicedesk/customer/portal/67/group/721/create/2494) to ensure that ITS & RCP are aware of the platforms in use.
 
 Cloud based analysis software has rapidly become popular for flow cytometry analysis, with OMIQ and Cytobank as the primary contenders. Due to the cloud based nature of these softwares, data must be uploaded to the appropriate cloud servers to be analysed with their analysis software. For data that is located on a NAS storage device, the data should be downloaded to your local computer and from the local copy to the cloud service. This intermediate storage of data on your local computer minimises the risk of data corruption, due to the network disruptions.
 
